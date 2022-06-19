@@ -1,12 +1,12 @@
 
 ### Hi there 👋, 
 #### I`m Nasim Reza and I am a Fullstack Web Developer
+###### Energetic and hard worker seeking to start a new career in Web Development. In 2012, I moved to Germany, studied at HTW University Berlin. Covid 19 pandemic was a wake up call to follow my dream; studying Web Development.
 Skills:   REACT / NodeJs / Express / MongoDB / JS / HTML / CSS
 
 
 
 - 🔭 I’m currently working on my final Project for my fullstack web development training at DCI Berlin.
-- - Energetic and hard worker seeking to start a new career in Web Development. In 2012, I moved to Germany, studied at HTW University Berlin. Covid 19 pandemic was a wake up call to follow my dream; studying Web Development.
 - 📫 How to reach me: nasimreza72@yahoo.com 
 - 😄 Pronouns: He 
 
