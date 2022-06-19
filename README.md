@@ -5,8 +5,7 @@ Skills:   REACT / NodeJs / Express / MongoDB / JS / HTML / CSS
 
 
 
-- 🔭 I’m currently working on my final Project for my fullstack web development training at the DCI
-- 🌱 I’m currently learning all things of the internet 
+- 🔭 I’m currently working on my final Project for my fullstack web development training at DCI Berlin.
 - 📫 How to reach me: nasimreza72@yahoo.com 
 - 😄 Pronouns: He 
 
@@ -14,4 +13,4 @@ Skills:   REACT / NodeJs / Express / MongoDB / JS / HTML / CSS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimreza72&show_icons=true&theme=cobalt)
-![Fullstack Web Developer](https://github.com/nasimreza72/nasimreza72/blob/master/mernDonuts.JPG)
+
