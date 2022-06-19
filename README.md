@@ -14,4 +14,4 @@ Skills:   REACT / NodeJs / Express / MongoDB / JS / HTML / CSS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimreza72&show_icons=true&theme=cobalt)
-![Fullstack Web Developer](https://github.com/nasimreza72/nasimreza2/blob/master/mernDonuts.JPG)
+![Fullstack Web Developer](https://github.com/nasimreza72/nasimreza72/blob/master/mernDonuts.JPG)
