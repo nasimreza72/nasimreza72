@@ -10,7 +10,7 @@ Skills:  <strong> React / NodeJs / Express / MongoDB / JavaScript / HTML5 / CSS3
 - 📫 How to reach me: nasimreza72@yahoo.com 
 - 😄 Pronouns: He 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nasimreza72) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nasim-reza-37516964/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nasimreza72)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nasim-reza-37516964/)  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimreza72&show_icons=true&theme=cobalt)
