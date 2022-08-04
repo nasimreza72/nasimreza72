@@ -6,7 +6,7 @@ Skills:  <strong> React / NodeJs / Express / MongoDB / JavaScript / HTML5 / CSS3
 
 
 
-- 🔭 I’m currently working on my final Project for my fullstack web development training at DCI Berlin.
+- 🔭 I have completed my fullstack web development training at Digital Career Institute Berlin.
 - 📫 How to reach me: nasimreza72@yahoo.com 
 - 😄 Pronouns: He 
 
