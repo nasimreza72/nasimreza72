@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 #### I`m Nasim Reza and I am a Fullstack Web Developer
-##### Energetic and hard worker seeking to start a new career in Web Development. In 2012, I moved to Germany, studied at HTW University Berlin. Covid 19 pandemic was a wake up call to follow my dream; studying Web Development.
-Skills:  <strong> React / NodeJs / Express / MongoDB / JavaScript / HTML5 / CSS3</strong> 
+##### Currently working as a Fullstack Web Developer at LC MED AG. In 2012, I moved to Germany, studied at HTW University Berlin. Covid 19 pandemic was a wake up call to follow my dream; studying Web Development.
+Skills:  <strong> React / NodeJs / Express / MongoDB / JavaScript / HTML5 / CSS3 / PHP / Wordpress</strong> 
 
 
 
